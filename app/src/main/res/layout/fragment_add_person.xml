@@ -3,12 +3,9 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context=".ListFrag"
+    android:background="@color/colorDarkPrimaryLight"
     android:orientation="vertical"
-    android:background="@color/colorAccent"
-    >
-
-    <!-- TODO: Update blank fragment layout -->
+    tools:context=".AddPersonFragment">
 
 
 </LinearLayout>
